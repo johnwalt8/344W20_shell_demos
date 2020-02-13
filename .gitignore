@@ -6,3 +6,4 @@ forkwaittest
 forkexec
 execvptest
 forkyouzombie
+catchingSignals
